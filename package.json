@@ -2,7 +2,7 @@
   "name": "vinted-discord-bot",
   "version": "2.0.0",
   "main": "index.js",
-  "author": "Androz2091 <androz2091@gmail.com>",
+  "author": "csimonwsh <444akame@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "discord-sync-commands": "^0.3.0",
